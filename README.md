@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hansato
+- 👋 Hi, we are @Hansato
 - 👀 We do WordPress, OpenCart & NextCloud
 - 🌱 We are currently learning Kubernetes
 - 💞️ Made with ❤️ and Debian, Apache, Proxmox
-- 📫 How to reach me info (at) hansato.com
+- 📫 How to reach us info (at) hansato.com
 
 <!---
 Hansato/Hansato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
