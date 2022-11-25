@@ -1,7 +1,6 @@
 - 👋 Hi, we are @Hansato
 - 👀 We do WordPress, OpenCart & NextCloud
-- 🌱 We are currently learning Kubernetes
-- 💞️ Made with ❤️ and Debian, Apache, Proxmox
+- 💞️ Made with ❤️ and Linux & Proxmox
 - 📫 How to reach us info (at) hansato.com
 
 <!---
