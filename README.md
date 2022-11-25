@@ -1,4 +1,4 @@
-- 👋 Hi, we are @Hansato
+- 👋 Hi, we are @Hansato Cloud Solutions
 - 👀 We do WordPress, OpenCart & NextCloud
 - 💞️ Made with ❤️ and Linux & Proxmox
 - 📫 How to reach us info (at) hansato.com
