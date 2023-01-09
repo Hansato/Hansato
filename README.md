@@ -2,6 +2,7 @@
 - 👀 We do WordPress, OpenCart & NextCloud
 - 💞️ Made with Linux and a truck load of ❤️
 - 🏠 Located in beautiful Lübeck, Germany
+- 🌐 Visit us over at https://www.hansato.com/
 - 📫 Email us using info (at) hansato.com
 
 <!---
