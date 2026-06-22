@@ -1,7 +1,8 @@
-- 👋 Hi, we are @Hansato Cloud Solutions
-- 👀 We do WordPress, OpenCart & NextCloud
-- 💞️ Made with Linux and a truck load of ❤️
-- 🏠 Located in beautiful Lübeck, Germany
+- 👋 Hi, we are @Hansato Global Sourcing
+- 📈 B2B Supply Chain Management & Strategy
+- 👀 WordPress, OpenCart, Vtiger & NextCloud
+- 💞️ Made with Linux, FOSS and a truck load of ❤️
+- 🏠 Located in Tallinn, Estonia - Europe
 - 🌐 Visit us over at https://www.hansato.com/
 - 📫 Email us using info (at) hansato.com
 
